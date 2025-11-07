@@ -1,1 +1,1 @@
-print("Hello this is Python in container")
+print("Hello, this is Python in DevContainer")
